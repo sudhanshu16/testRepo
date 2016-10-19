@@ -1,1 +1,1 @@
-This is the second doc created by test feature.
+This is the second doc created by test feature. This is the hotfix feature
