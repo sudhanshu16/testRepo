@@ -1,2 +1,2 @@
 # testRepo
-Test website for checking Github CLI. This repo will be mostly used for checking testing purposes.
+This repo will be mostly used for checking testing purposes. GitHub related automation tasks to be tested here.
